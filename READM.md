@@ -7,6 +7,10 @@ My project is focus on....
 `pip install`
 
 `composoer install`
+### Todo list
+- [ ] Home page
+- [ ] About page
+- [x] service page
 
 
 #### heading 4
