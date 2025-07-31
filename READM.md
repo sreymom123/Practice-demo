@@ -15,5 +15,30 @@ My project is focus on....
 ![Dashboard](dashboard.png)
 ### link
 CSS Framework [Tailwindcss](https://tailwindcss.com/)
+### List
+Unorder list
+- one
+- two
+- Three
+    - other sub list
+    - kkk
+---
+Order list
+1. One
+2. Two
+3. Three
+### Text style
 
+**Bbold text**
+
+*hello world*
+
+~~delete text~~
+### Block quote
+> Hello world
+
+### Table
+|id | name | Age |
+|----|-----|---|
+|01 | Rady | 100|
 
